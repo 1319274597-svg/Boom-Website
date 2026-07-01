@@ -95,52 +95,58 @@
           title: '道格·马卡伊达',
           desc: '菲律宾裔武器专家 / Forged in Fire 常驻评委'
         },
-        creators: [
+        featured2: {
+          name: 'Tony Jaa',
+          followers: '701.4K+',
+          title: 'tonyjaa_official',
+          desc: '泰国男演员、导演、制片人'
+        },
+                creators: [
           { name: 'PANDABOI', followers: '78M+' },
-          { name: 'Doug Marcaida', followers: '5.09M+' },
+          { name: 'Katie Feeney', followers: '12.73M+' },
+          { name: 'justt__zizouu', followers: '12.26M+' },
+          { name: 'kuya_panch', followers: '5.6M+' },
+          { name: 'davidmaluco_', followers: '3.91M+' },
+          { name: 'dangthuhaf', followers: '3.7M+' },
           { name: 'traveltomtom', followers: '3.5M+' },
+          { name: '_mehmetbuse', followers: '2.7M+' },
           { name: 'piriawes', followers: '2.5M+' },
+          { name: 'you_fay', followers: '2.4M+' },
+          { name: 'selma.sofiane', followers: '2.4M+' },
+          { name: 'jannanickofficial', followers: '2.36M+' },
           { name: 'Brent Timm Travel', followers: '2.3M+' },
+          { name: 'thechavezfamilyy', followers: '2.1M+' },
           { name: 'jessmelu', followers: '2M+' },
+          { name: 'Niranjan', followers: '2M+' },
+          { name: 'Josh the Intern', followers: '2M+' },
+          { name: 'mbymelanightt', followers: '1.93M+' },
           { name: 'lexinchina', followers: '1.9M+' },
+          { name: 'milena__94', followers: '1.9M+' },
+          { name: 'Magnacars', followers: '1.87M+' },
           { name: 'petchppc', followers: '1.8M+' },
+          { name: 'itsjustourlife', followers: '1.8M+' },
+          { name: 'neoluvo', followers: '1.4M+' },
+          { name: 'amottivation', followers: '1.36M+' },
+          { name: 'exteriorglam', followers: '1.31M+' },
           { name: 'TC IN CHINA', followers: '1.3M+' },
+          { name: 'bepnhalinh', followers: '1.1M+' },
           { name: 'chloe jade travels', followers: '1M+' },
           { name: 'Edward Halim', followers: '1M+' },
           { name: '2passports1dream', followers: '1M+' },
-          { name: 'Jack and Sophia', followers: '700K+' },
-          { name: 'Chi đi Chill', followers: '600K+' },
-          { name: 'passportvisionz_', followers: '328K+' },
-          { name: 'Ira Nova', followers: '420K+' },
-          { name: 'wavyute', followers: '780.3K+' },
           { name: 'tianmei.qiqi 泰国KK', followers: '880.4K+' },
+          { name: "Opal's Story", followers: '800K+' },
+          { name: 'wavyute', followers: '780.3K+' },
+          { name: 'Jack and Sophia', followers: '700K+' },
+          { name: 'youusaff', followers: '700K+' },
+          { name: 'CastCrafter', followers: '631K+' },
+          { name: '美有姫', followers: '628K+' },
+          { name: '提姆哥和妮可姐', followers: '616K+' },
+          { name: 'Chi đi Chill', followers: '600K+' },
+          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
+          { name: 'Ira Nova', followers: '420K+' },
           { name: '倪暄 Eli', followers: '342K+' },
           { name: 'Nikki', followers: '331K+' },
-          { name: 'exteriorglam', followers: '1.31M+' },
-          { name: '提姆哥和妮可姐', followers: '616K+' },
-          { name: 'amottivation', followers: '1.36M+' },
-          { name: 'Niranjan', followers: '2M+' },
-          { name: 'CastCrafter', followers: '631K+' },
-          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
-          { name: 'neoluvo', followers: '1.4M+' },
-          { name: 'Josh the Intern', followers: '2M+' },
-          { name: '_mehmetbuse', followers: '2.7M+' },
-          { name: 'Katie Feeney', followers: '12.73M+' },
-          { name: 'milena__94', followers: '1.9M+' },
-          { name: 'davidmaluco_', followers: '3.91M+' },
-          { name: 'youusaff', followers: '700K+' },
-          { name: 'kuya_panch', followers: '5.6M+' },
-          { name: 'thechavezfamilyy', followers: '2.1M+' },
-          { name: 'itsjustourlife', followers: '1.8M+' },
-          { name: 'you_fay', followers: '2.4M+' },
-          { name: 'selma.sofiane', followers: '2.4M+' },
-          { name: 'mbymelanightt', followers: '1.93M+' },
-          { name: 'justt__zizouu', followers: '12.26M+' },
-          { name: 'jannanickofficial', followers: '2.36M+' },
-          { name: '美有姫', followers: '628K+' },
-          { name: 'Magnacars', followers: '1.87M+' },
-          { name: 'bepnhalinh', followers: '1.1M+' },
-          { name: 'dangthuhaf', followers: '3.7M+' }
+          { name: 'passportvisionz_', followers: '328K+' }
         ]
       },
       clients: {
@@ -160,52 +166,58 @@
           title: 'Doug Marcaida',
           desc: '菲律宾裔武器专家 / Forged in Fire 常驻评委'
         },
-        creators: [
+        featured2: {
+          name: 'Tony Jaa',
+          followers: '701.4K+',
+          title: 'tonyjaa_official',
+          desc: '泰国男演员、导演、制片人'
+        },
+                creators: [
           { name: 'PANDABOI', followers: '78M+' },
-          { name: 'Doug Marcaida', followers: '5.09M+' },
+          { name: 'Katie Feeney', followers: '12.73M+' },
+          { name: 'justt__zizouu', followers: '12.26M+' },
+          { name: 'kuya_panch', followers: '5.6M+' },
+          { name: 'davidmaluco_', followers: '3.91M+' },
+          { name: 'dangthuhaf', followers: '3.7M+' },
           { name: 'traveltomtom', followers: '3.5M+' },
+          { name: '_mehmetbuse', followers: '2.7M+' },
           { name: 'piriawes', followers: '2.5M+' },
+          { name: 'you_fay', followers: '2.4M+' },
+          { name: 'selma.sofiane', followers: '2.4M+' },
+          { name: 'jannanickofficial', followers: '2.36M+' },
           { name: 'Brent Timm Travel', followers: '2.3M+' },
+          { name: 'thechavezfamilyy', followers: '2.1M+' },
           { name: 'jessmelu', followers: '2M+' },
+          { name: 'Niranjan', followers: '2M+' },
+          { name: 'Josh the Intern', followers: '2M+' },
+          { name: 'mbymelanightt', followers: '1.93M+' },
           { name: 'lexinchina', followers: '1.9M+' },
+          { name: 'milena__94', followers: '1.9M+' },
+          { name: 'Magnacars', followers: '1.87M+' },
           { name: 'petchppc', followers: '1.8M+' },
+          { name: 'itsjustourlife', followers: '1.8M+' },
+          { name: 'neoluvo', followers: '1.4M+' },
+          { name: 'amottivation', followers: '1.36M+' },
+          { name: 'exteriorglam', followers: '1.31M+' },
           { name: 'TC IN CHINA', followers: '1.3M+' },
+          { name: 'bepnhalinh', followers: '1.1M+' },
           { name: 'chloe jade travels', followers: '1M+' },
           { name: 'Edward Halim', followers: '1M+' },
           { name: '2passports1dream', followers: '1M+' },
-          { name: 'Jack and Sophia', followers: '700K+' },
-          { name: 'Chi đi Chill', followers: '600K+' },
-          { name: 'passportvisionz_', followers: '328K+' },
-          { name: 'Ira Nova', followers: '420K+' },
-          { name: 'wavyute', followers: '780.3K+' },
           { name: 'tianmei.qiqi 泰国KK', followers: '880.4K+' },
+          { name: "Opal's Story", followers: '800K+' },
+          { name: 'wavyute', followers: '780.3K+' },
+          { name: 'Jack and Sophia', followers: '700K+' },
+          { name: 'youusaff', followers: '700K+' },
+          { name: 'CastCrafter', followers: '631K+' },
+          { name: '美有姫', followers: '628K+' },
+          { name: '提姆哥和妮可姐', followers: '616K+' },
+          { name: 'Chi đi Chill', followers: '600K+' },
+          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
+          { name: 'Ira Nova', followers: '420K+' },
           { name: '倪暄 Eli', followers: '342K+' },
           { name: 'Nikki', followers: '331K+' },
-          { name: 'exteriorglam', followers: '1.31M+' },
-          { name: '提姆哥和妮可姐', followers: '616K+' },
-          { name: 'amottivation', followers: '1.36M+' },
-          { name: 'Niranjan', followers: '2M+' },
-          { name: 'CastCrafter', followers: '631K+' },
-          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
-          { name: 'neoluvo', followers: '1.4M+' },
-          { name: 'Josh the Intern', followers: '2M+' },
-          { name: '_mehmetbuse', followers: '2.7M+' },
-          { name: 'Katie Feeney', followers: '12.73M+' },
-          { name: 'milena__94', followers: '1.9M+' },
-          { name: 'davidmaluco_', followers: '3.91M+' },
-          { name: 'youusaff', followers: '700K+' },
-          { name: 'kuya_panch', followers: '5.6M+' },
-          { name: 'thechavezfamilyy', followers: '2.1M+' },
-          { name: 'itsjustourlife', followers: '1.8M+' },
-          { name: 'you_fay', followers: '2.4M+' },
-          { name: 'selma.sofiane', followers: '2.4M+' },
-          { name: 'mbymelanightt', followers: '1.93M+' },
-          { name: 'justt__zizouu', followers: '12.26M+' },
-          { name: 'jannanickofficial', followers: '2.36M+' },
-          { name: '美有姫', followers: '628K+' },
-          { name: 'Magnacars', followers: '1.87M+' },
-          { name: 'bepnhalinh', followers: '1.1M+' },
-          { name: 'dangthuhaf', followers: '3.7M+' }
+          { name: 'passportvisionz_', followers: '328K+' }
         ]
       },
       cases: {
@@ -353,52 +365,58 @@
           title: 'Doug Marcaida',
           desc: 'Filipino-American Weapons Expert / Forged in Fire Judge'
         },
-        creators: [
+        featured2: {
+          name: 'Tony Jaa',
+          followers: '701.4K+',
+          title: 'tonyjaa_official',
+          desc: 'Thai Actor, Director, Producer'
+        },
+                creators: [
           { name: 'PANDABOI', followers: '78M+' },
-          { name: 'Doug Marcaida', followers: '5.09M+' },
+          { name: 'Katie Feeney', followers: '12.73M+' },
+          { name: 'justt__zizouu', followers: '12.26M+' },
+          { name: 'kuya_panch', followers: '5.6M+' },
+          { name: 'davidmaluco_', followers: '3.91M+' },
+          { name: 'dangthuhaf', followers: '3.7M+' },
           { name: 'traveltomtom', followers: '3.5M+' },
+          { name: '_mehmetbuse', followers: '2.7M+' },
           { name: 'piriawes', followers: '2.5M+' },
+          { name: 'you_fay', followers: '2.4M+' },
+          { name: 'selma.sofiane', followers: '2.4M+' },
+          { name: 'jannanickofficial', followers: '2.36M+' },
           { name: 'Brent Timm Travel', followers: '2.3M+' },
+          { name: 'thechavezfamilyy', followers: '2.1M+' },
           { name: 'jessmelu', followers: '2M+' },
+          { name: 'Niranjan', followers: '2M+' },
+          { name: 'Josh the Intern', followers: '2M+' },
+          { name: 'mbymelanightt', followers: '1.93M+' },
           { name: 'lexinchina', followers: '1.9M+' },
+          { name: 'milena__94', followers: '1.9M+' },
+          { name: 'Magnacars', followers: '1.87M+' },
           { name: 'petchppc', followers: '1.8M+' },
+          { name: 'itsjustourlife', followers: '1.8M+' },
+          { name: 'neoluvo', followers: '1.4M+' },
+          { name: 'amottivation', followers: '1.36M+' },
+          { name: 'exteriorglam', followers: '1.31M+' },
           { name: 'TC IN CHINA', followers: '1.3M+' },
+          { name: 'bepnhalinh', followers: '1.1M+' },
           { name: 'chloe jade travels', followers: '1M+' },
           { name: 'Edward Halim', followers: '1M+' },
           { name: '2passports1dream', followers: '1M+' },
-          { name: 'Jack and Sophia', followers: '700K+' },
-          { name: 'Chi đi Chill', followers: '600K+' },
-          { name: 'passportvisionz_', followers: '328K+' },
-          { name: 'Ira Nova', followers: '420K+' },
-          { name: 'wavyute', followers: '780.3K+' },
           { name: 'tianmei.qiqi 泰国KK', followers: '880.4K+' },
+          { name: "Opal's Story", followers: '800K+' },
+          { name: 'wavyute', followers: '780.3K+' },
+          { name: 'Jack and Sophia', followers: '700K+' },
+          { name: 'youusaff', followers: '700K+' },
+          { name: 'CastCrafter', followers: '631K+' },
+          { name: '美有姫', followers: '628K+' },
+          { name: '提姆哥和妮可姐', followers: '616K+' },
+          { name: 'Chi đi Chill', followers: '600K+' },
+          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
+          { name: 'Ira Nova', followers: '420K+' },
           { name: '倪暄 Eli', followers: '342K+' },
           { name: 'Nikki', followers: '331K+' },
-          { name: 'exteriorglam', followers: '1.31M+' },
-          { name: '提姆哥和妮可姐', followers: '616K+' },
-          { name: 'amottivation', followers: '1.36M+' },
-          { name: 'Niranjan', followers: '2M+' },
-          { name: 'CastCrafter', followers: '631K+' },
-          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
-          { name: 'neoluvo', followers: '1.4M+' },
-          { name: 'Josh the Intern', followers: '2M+' },
-          { name: '_mehmetbuse', followers: '2.7M+' },
-          { name: 'Katie Feeney', followers: '12.73M+' },
-          { name: 'milena__94', followers: '1.9M+' },
-          { name: 'davidmaluco_', followers: '3.91M+' },
-          { name: 'youusaff', followers: '700K+' },
-          { name: 'kuya_panch', followers: '5.6M+' },
-          { name: 'thechavezfamilyy', followers: '2.1M+' },
-          { name: 'itsjustourlife', followers: '1.8M+' },
-          { name: 'you_fay', followers: '2.4M+' },
-          { name: 'selma.sofiane', followers: '2.4M+' },
-          { name: 'mbymelanightt', followers: '1.93M+' },
-          { name: 'justt__zizouu', followers: '12.26M+' },
-          { name: 'jannanickofficial', followers: '2.36M+' },
-          { name: '美有姫', followers: '628K+' },
-          { name: 'Magnacars', followers: '1.87M+' },
-          { name: 'bepnhalinh', followers: '1.1M+' },
-          { name: 'dangthuhaf', followers: '3.7M+' }
+          { name: 'passportvisionz_', followers: '328K+' }
         ]
       },
       clients: {
@@ -552,52 +570,58 @@
           title: 'Doug Marcaida',
           desc: 'ผู้เชี่ยวชาญด้านอาวุธชาวฟิลิปปินส์-อเมริกัน / กรรมการรายการ Forged in Fire'
         },
-        creators: [
+        featured2: {
+          name: 'Tony Jaa',
+          followers: '701.4K+',
+          title: 'tonyjaa_official',
+          desc: 'นักแสดง ผู้กำกับ โปรดิวเซอร์ชาวไทย'
+        },
+                creators: [
           { name: 'PANDABOI', followers: '78M+' },
-          { name: 'Doug Marcaida', followers: '5.09M+' },
+          { name: 'Katie Feeney', followers: '12.73M+' },
+          { name: 'justt__zizouu', followers: '12.26M+' },
+          { name: 'kuya_panch', followers: '5.6M+' },
+          { name: 'davidmaluco_', followers: '3.91M+' },
+          { name: 'dangthuhaf', followers: '3.7M+' },
           { name: 'traveltomtom', followers: '3.5M+' },
+          { name: '_mehmetbuse', followers: '2.7M+' },
           { name: 'piriawes', followers: '2.5M+' },
+          { name: 'you_fay', followers: '2.4M+' },
+          { name: 'selma.sofiane', followers: '2.4M+' },
+          { name: 'jannanickofficial', followers: '2.36M+' },
           { name: 'Brent Timm Travel', followers: '2.3M+' },
+          { name: 'thechavezfamilyy', followers: '2.1M+' },
           { name: 'jessmelu', followers: '2M+' },
+          { name: 'Niranjan', followers: '2M+' },
+          { name: 'Josh the Intern', followers: '2M+' },
+          { name: 'mbymelanightt', followers: '1.93M+' },
           { name: 'lexinchina', followers: '1.9M+' },
+          { name: 'milena__94', followers: '1.9M+' },
+          { name: 'Magnacars', followers: '1.87M+' },
           { name: 'petchppc', followers: '1.8M+' },
+          { name: 'itsjustourlife', followers: '1.8M+' },
+          { name: 'neoluvo', followers: '1.4M+' },
+          { name: 'amottivation', followers: '1.36M+' },
+          { name: 'exteriorglam', followers: '1.31M+' },
           { name: 'TC IN CHINA', followers: '1.3M+' },
+          { name: 'bepnhalinh', followers: '1.1M+' },
           { name: 'chloe jade travels', followers: '1M+' },
           { name: 'Edward Halim', followers: '1M+' },
           { name: '2passports1dream', followers: '1M+' },
-          { name: 'Jack and Sophia', followers: '700K+' },
-          { name: 'Chi đi Chill', followers: '600K+' },
-          { name: 'passportvisionz_', followers: '328K+' },
-          { name: 'Ira Nova', followers: '420K+' },
-          { name: 'wavyute', followers: '780.3K+' },
           { name: 'tianmei.qiqi 泰国KK', followers: '880.4K+' },
+          { name: "Opal's Story", followers: '800K+' },
+          { name: 'wavyute', followers: '780.3K+' },
+          { name: 'Jack and Sophia', followers: '700K+' },
+          { name: 'youusaff', followers: '700K+' },
+          { name: 'CastCrafter', followers: '631K+' },
+          { name: '美有姫', followers: '628K+' },
+          { name: '提姆哥和妮可姐', followers: '616K+' },
+          { name: 'Chi đi Chill', followers: '600K+' },
+          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
+          { name: 'Ira Nova', followers: '420K+' },
           { name: '倪暄 Eli', followers: '342K+' },
           { name: 'Nikki', followers: '331K+' },
-          { name: 'exteriorglam', followers: '1.31M+' },
-          { name: '提姆哥和妮可姐', followers: '616K+' },
-          { name: 'amottivation', followers: '1.36M+' },
-          { name: 'Niranjan', followers: '2M+' },
-          { name: 'CastCrafter', followers: '631K+' },
-          { name: 'tonmaiiiiiiiiii', followers: '574.1K+' },
-          { name: 'neoluvo', followers: '1.4M+' },
-          { name: 'Josh the Intern', followers: '2M+' },
-          { name: '_mehmetbuse', followers: '2.7M+' },
-          { name: 'Katie Feeney', followers: '12.73M+' },
-          { name: 'milena__94', followers: '1.9M+' },
-          { name: 'davidmaluco_', followers: '3.91M+' },
-          { name: 'youusaff', followers: '700K+' },
-          { name: 'kuya_panch', followers: '5.6M+' },
-          { name: 'thechavezfamilyy', followers: '2.1M+' },
-          { name: 'itsjustourlife', followers: '1.8M+' },
-          { name: 'you_fay', followers: '2.4M+' },
-          { name: 'selma.sofiane', followers: '2.4M+' },
-          { name: 'mbymelanightt', followers: '1.93M+' },
-          { name: 'justt__zizouu', followers: '12.26M+' },
-          { name: 'jannanickofficial', followers: '2.36M+' },
-          { name: '美有姫', followers: '628K+' },
-          { name: 'Magnacars', followers: '1.87M+' },
-          { name: 'bepnhalinh', followers: '1.1M+' },
-          { name: 'dangthuhaf', followers: '3.7M+' }
+          { name: 'passportvisionz_', followers: '328K+' }
         ]
       },
       clients: {
@@ -666,7 +690,9 @@
   };
 
   // ==================== STATE ====================
-  let currentLang = localStorage.getItem('boom-lang') || 'zh';
+  // Always default to Thai on page load, regardless of cached value.
+  localStorage.removeItem('boom-lang');
+  let currentLang = 'th';
   let currentCaseFilter = 'all';
   let currentModalIndex = -1;
   let filteredCases = [];
@@ -839,63 +865,64 @@
     const featuredEl = section.querySelector('.talent-featured');
     const grid = section.querySelector('.talent-grid');
 
-    // Talent image mapping — uses organized photos from output/images/talents/
     const talentImages = [
-      '../images/talents/PANDABOI.png',          // 0: PANDABOI (78M+)
-      '../images/talents/Doug Marcaida.png',     // 1: Doug Marcaida (5.09M+)
-      '../images/talents/traveltomtom.png',      // 2: traveltomtom (3.5M+)
-      '../images/talents/piriawes.png',          // 3: piriawes (2.5M+)
-      '../images/talents/Brent Timm Travel.jpg', // 4: Brent Timm Travel (2.3M+)
-      '../images/talents/jessmelu.png',          // 5: jessmelu (2M+)
-      '../images/talents/lexinchina.png',        // 6: lexinchina (1.9M+)
-      '../images/talents/petchppc.png',          // 7: petchppc (1.8M+)
-      '../images/talents/TC IN CHINA.png',       // 8: TC IN CHINA (1.3M+)
-      '../images/talents/chloe jade travels.png',// 9: chloe jade travels (1M+)
-      '../images/talents/Edward Halim.png',      // 10: Edward Halim (1M+)
-      '../images/talents/2passports1dream.jpg',  // 11: 2passports1dream (1M+)
-      '../images/talents/Jack and Sophia.png',   // 12: Jack and Sophia (700K+)
-      '../images/talents/Chi đi Chill.png',      // 13: Chi đi Chill (600K+)
-      '../images/talents/passportvisionz_.jpg',          // 14: passportvisionz_ (328K+)
-      '../images/talents/Ira Nova.jpg',                  // 15: Ira Nova (420K+)
-      '../images/talents/wavyute.jpg',                   // 16: wavyute (780.3K+)
-      '../images/talents/tianmei.qiqi 泰国KK.jpg',       // 17: tianmei.qiqi 泰国KK (880.4K+)
-      '../images/talents/倪暄 Eli.jpg',                   // 18: 倪暄 Eli (342K+)
-      '../images/talents/Nikki.jpg',                      // 19: Nikki (331K+)
-      '../images/talents/exteriorglam.jpg',               // 20: exteriorglam (1.31M+)
-      '../images/talents/提姆哥和妮可姐.jpg',              // 21: 提姆哥和妮可姐 (616K+)
-      '../images/talents/amottivation.jpg',               // 22: amottivation (1.36M+)
-      '../images/talents/Niranjan.jpg',                   // 23: Niranjan (2M+)
-      '../images/talents/CastCrafter.jpg',                // 24: CastCrafter (631K+)
-      '../images/talents/tonmaiiiiiiiiii.jpg',            // 25: tonmaiiiiiiiiii (574.1K+)
-      '../images/talents/neoluvo.jpg',                    // 26: neoluvo (1.4M+)
-      '../images/talents/Josh the Intern.jpg',            // 27: Josh the Intern (2M+)
-      '../images/talents/_mehmetbuse.jpg',                // 28: _mehmetbuse (2.7M+)
-      '../images/talents/Katie Feeney.jpg',               // 29: Katie Feeney (12.73M+)
-      '../images/talents/milena__94.jpg',                 // 30: milena__94 (1.9M+)
-      '../images/talents/davidmaluco_.jpg',               // 31: davidmaluco_ (3.91M+)
-      '../images/talents/youusaff.jpg',                   // 32: youusaff (700K+)
-      '../images/talents/kuya_panch.jpg',                 // 33: kuya_panch (5.6M+)
-      '../images/talents/thechavezfamilyy.jpg',           // 34: thechavezfamilyy (2.1M+)
-      '../images/talents/itsjustourlife.jpg',             // 35: itsjustourlife (1.8M+)
-      '../images/talents/you_fay.jpg',                    // 36: you_fay (2.4M+)
-      '../images/talents/selma.sofiane.jpg',              // 37: selma.sofiane (2.4M+)
-      '../images/talents/mbymelanightt.jpg',              // 38: mbymelanightt (1.93M+)
-      '../images/talents/justt__zizouu.jpg',              // 39: justt__zizouu (12.26M+)
-      '../images/talents/jannanickofficial.jpg',          // 40: jannanickofficial (2.36M+)
-      '../images/talents/美有姫.jpg',                      // 41: 美有姫 (628K+)
-      '../images/talents/Magnacars.jpg',                  // 42: Magnacars (1.87M+)
-      '../images/talents/bepnhalinh.jpg',                 // 43: bepnhalinh (1.1M+)
-      '../images/talents/dangthuhaf.jpg',                 // 44: dangthuhaf (3.7M+)
+      'images/talents/PANDABOI.png',
+      'images/talents/Katie Feeney.jpg',
+      'images/talents/justt__zizouu.jpg',
+      'images/talents/kuya_panch.jpg',
+      'images/talents/davidmaluco_.jpg',
+      'images/talents/dangthuhaf.jpg',
+      'images/talents/traveltomtom.png',
+      'images/talents/_mehmetbuse.jpg',
+      'images/talents/piriawes.png',
+      'images/talents/you_fay.jpg',
+      'images/talents/selma.sofiane.jpg',
+      'images/talents/jannanickofficial.jpg',
+      'images/talents/Brent Timm Travel.jpg',
+      'images/talents/thechavezfamilyy.jpg',
+      'images/talents/jessmelu.png',
+      'images/talents/Niranjan.jpg',
+      'images/talents/Josh the Intern.jpg',
+      'images/talents/mbymelanightt.jpg',
+      'images/talents/lexinchina.png',
+      'images/talents/milena__94.jpg',
+      'images/talents/Magnacars.jpg',
+      'images/talents/petchppc.png',
+      'images/talents/itsjustourlife.jpg',
+      'images/talents/neoluvo.jpg',
+      'images/talents/amottivation.jpg',
+      'images/talents/exteriorglam.jpg',
+      'images/talents/TC IN CHINA.png',
+      'images/talents/bepnhalinh.jpg',
+      'images/talents/chloe jade travels.png',
+      'images/talents/Edward Halim.png',
+      'images/talents/2passports1dream.jpg',
+      'images/talents/tianmei.qiqi 泰国KK.jpg',
+      "images/talents/Opal's Story.png",
+      'images/talents/wavyute.jpg',
+      'images/talents/Jack and Sophia.png',
+      'images/talents/youusaff.jpg',
+      'images/talents/CastCrafter.jpg',
+      'images/talents/美有姫.jpg',
+      'images/talents/提姆哥和妮可姐.jpg',
+      'images/talents/Chi đi Chill.png',
+      'images/talents/tonmaiiiiiiiiii.jpg',
+      'images/talents/Ira Nova.jpg',
+      'images/talents/倪暄 Eli.jpg',
+      'images/talents/Nikki.jpg',
+      'images/talents/passportvisionz_.jpg'
     ];
 
-    // Render Doug Marcaida as featured card
+    // Render Doug Marcaida and Tony Jaa as featured big cards
     const featured = t('talent.featured');
+    const featured2 = t('talent.featured2');
     if (featuredEl && featured) {
-      const imgSrc = talentImages[1] || '';  // Doug is index 1
+      const dougImg = 'images/talents/Doug Marcaida.png';
+      const tonyImg = 'images/talents/tonyjaa_official.jpg';
       featuredEl.innerHTML = `
         <div class="talent-featured-card fade-in">
           <div class="talent-featured-avatar">
-            ${imgSrc ? `<img src="${imgSrc}" alt="${featured.name}" loading="lazy" onerror="this.style.display='none'">` : ''}
+            <img src="${dougImg}" alt="${featured.name}" loading="lazy" onerror="this.style.display='none'">
           </div>
           <div class="talent-featured-info">
             <div class="talent-featured-title">${featured.title}</div>
@@ -903,18 +930,28 @@
             <div class="talent-featured-followers">${featured.followers} Followers</div>
             <div class="talent-featured-desc">${featured.desc}</div>
           </div>
-        </div>`;
+        </div>
+        ${featured2 ? `
+        <div class="talent-featured-card fade-in">
+          <div class="talent-featured-avatar">
+            <img src="${tonyImg}" alt="${featured2.name}" loading="lazy" onerror="this.style.display='none'">
+          </div>
+          <div class="talent-featured-info">
+            <div class="talent-featured-title">${featured2.title}</div>
+            <div class="talent-featured-name">${featured2.name}</div>
+            <div class="talent-featured-followers">${featured2.followers} Followers</div>
+            <div class="talent-featured-desc">${featured2.desc}</div>
+          </div>
+        </div>` : ''}`;
     }
 
-    // Render remaining 13 talents (exclude Doug at index 1)
+    // Render grid cards for all creators
     if (grid) {
       const creators = t('talent.creators');
-      const others = creators.filter((c, i) => i !== 1);
-      const otherImages = talentImages.filter((img, i) => i !== 1);
-      grid.innerHTML = others.map((c, i) => {
-        const imgSrc = otherImages[i] || '';
+      grid.innerHTML = creators.map((c, i) => {
+        const imgSrc = talentImages[i] || '';
         const avatarHtml = imgSrc
-          ? `<img src="${imgSrc}" alt="${c.name}" class="talent-avatar" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">`
+          ? `<div class="talent-avatar-wrap"><img src="${imgSrc}" alt="${c.name}" class="talent-avatar" width="80" height="80" loading="lazy" onerror="this.style.display='none';this.parentElement.nextElementSibling.style.display='flex';"></div>`
           : '';
         const fallbackHtml = `<div class="talent-avatar-fallback" style="display:${imgSrc?'none':'flex'};width:80px;height:80px;border-radius:50%;background:linear-gradient(135deg, #1a1a1a, #222);align-items:center;justify-content:center;font-size:1.3rem;color:var(--red);margin:0 auto;">${c.name.charAt(0)}</div>`;
         return `<div class="talent-card fade-in">${avatarHtml}${fallbackHtml}<div class="talent-name">${c.name}</div><div class="talent-followers">${c.followers} Followers</div></div>`;
@@ -948,7 +985,7 @@
     if (!grid) return;
     let logosHtml = '';
     for (let i = 2; i <= 35; i++) {
-      const imgPath = `../images/slide_13_img${i}.png`;
+      const imgPath = `images/slide_13_img${i}.png`;
       logosHtml += `<div class="client-logo-item"><img src="${imgPath}" alt="Client Logo" loading="lazy" onerror="this.parentElement.style.display='none'"></div>`;
     }
     grid.innerHTML = logosHtml;
@@ -997,32 +1034,32 @@
   // SVG files are excluded. Cover = first image alphabetically.
   function getCaseImages(slideNum) {
     const MAP = {
-      14: ['../images/cases/slide14/slide14_img03.png','../images/cases/slide14/slide14_img04.png','../images/cases/slide14/slide14_img05.png','../images/cases/slide14/slide14_img06.png','../images/cases/slide14/slide14_img07.png','../images/cases/slide14/slide14_img08.png'],
-      15: ['../images/cases/slide15/slide15_img01.jpeg','../images/cases/slide15/slide15_img02.jpeg','../images/cases/slide15/slide15_img03.jpeg','../images/cases/slide15/slide15_img04.png','../images/cases/slide15/slide15_img05.png','../images/cases/slide15/slide15_img06.png','../images/cases/slide15/slide15_img07.png','../images/cases/slide15/slide15_img08.jpeg','../images/cases/slide15/slide15_img13.png','../images/cases/slide15/slide15_img14.png','../images/cases/slide15/slide15_img15.png','../images/cases/slide15/slide15_img16.jpeg'],
-      16: ['../images/cases/slide16/slide16_img08.jpeg','../images/cases/slide16/slide16_img11.png','../images/cases/slide16/slide16_img12.png','../images/cases/slide16/slide16_img13.jpeg','../images/cases/slide16/slide16_img14.jpeg','../images/cases/slide16/slide16_img15.png','../images/cases/slide16/slide16_img16.jpeg','../images/cases/slide16/slide16_img17.jpeg','../images/cases/slide16/slide16_img18.jpeg','../images/cases/slide16/slide16_img19.jpeg','../images/cases/slide16/slide16_img20.jpeg'],
-      17: ['../images/cases/slide17/slide17_img08.jpeg','../images/cases/slide17/slide17_img09.jpeg','../images/cases/slide17/slide17_img10.png','../images/cases/slide17/slide17_img12.png','../images/cases/slide17/slide17_img13.png','../images/cases/slide17/slide17_img14.png','../images/cases/slide17/slide17_img15.png','../images/cases/slide17/slide17_img16.png','../images/cases/slide17/slide17_img18.png','../images/cases/slide17/slide17_img19.jpeg','../images/cases/slide17/slide17_img20.png','../images/cases/slide17/slide17_img21.jpeg','../images/cases/slide17/slide17_img22.jpeg','../images/cases/slide17/slide17_img23.jpeg','../images/cases/slide17/slide17_img24.jpeg','../images/cases/slide17/slide17_img25.jpeg'],
-      18: ['../images/cases/slide18/slide18_img01.png','../images/cases/slide18/slide18_img04.png','../images/cases/slide18/slide18_img05.jpeg','../images/cases/slide18/slide18_img06.jpeg','../images/cases/slide18/slide18_img07.jpeg','../images/cases/slide18/slide18_img08.jpeg','../images/cases/slide18/slide18_img09.jpeg','../images/cases/slide18/slide18_img11.png','../images/cases/slide18/slide18_img15.png'],
-      19: ['../images/cases/slide19/slide19_img01.png','../images/cases/slide19/slide19_img02.png','../images/cases/slide19/slide19_img03.png'],
-      20: ['../images/cases/slide20/slide20_img07.png','../images/cases/slide20/slide20_img08.png','../images/cases/slide20/slide20_img09.png'],
-      21: ['../images/cases/slide21/slide21_img08.png','../images/cases/slide21/slide21_img09.png','../images/cases/slide21/slide21_img11.png','../images/cases/slide21/slide21_img12.png','../images/cases/slide21/slide21_img13.png'],
-      22: ['../images/cases/slide22/1.png','../images/cases/slide22/2.png','../images/cases/slide22/slide22_img08.png','../images/cases/slide22/slide22_img09.png','../images/cases/slide22/slide22_img10.png','../images/cases/slide22/slide22_img12.png'],
-      23: ['../images/cases/slide23/slide23_img01.png','../images/cases/slide23/slide23_img03.png','../images/cases/slide23/slide23_img04.png','../images/cases/slide23/slide23_img05.png','../images/cases/slide23/slide23_img06.png','../images/cases/slide23/slide23_img10.png','../images/cases/slide23/slide23_img12.png','../images/cases/slide23/slide23_img13.png'],
-      24: ['../images/cases/slide24/slide24_img04.png','../images/cases/slide24/slide24_img05.png','../images/cases/slide24/slide24_img06.png'],
-      25: ['../images/cases/slide25/slide25_img01.png','../images/cases/slide25/slide25_img02.png','../images/cases/slide25/slide25_img03.png','../images/cases/slide25/slide25_img04.png','../images/cases/slide25/slide25_img05.jpeg','../images/cases/slide25/slide25_img06.jpeg','../images/cases/slide25/slide25_img07.jpeg','../images/cases/slide25/slide25_img11.jpeg','../images/cases/slide25/slide25_img18.png'],
-      26: ['../images/cases/slide26/slide26_img05.png','../images/cases/slide26/slide26_img06.png','../images/cases/slide26/slide26_img07.png','../images/cases/slide26/slide26_img08.png','../images/cases/slide26/slide26_img09.png','../images/cases/slide26/slide26_img10.png'],
-      27: ['../images/cases/slide27/slide27_img01.jpeg','../images/cases/slide27/slide27_img02.jpeg','../images/cases/slide27/slide27_img03.jpeg','../images/cases/slide27/slide27_img04.jpeg','../images/cases/slide27/slide27_img05.jpeg','../images/cases/slide27/slide27_img06.jpeg','../images/cases/slide27/slide27_img07.jpeg','../images/cases/slide27/slide28_img01.png','../images/cases/slide27/slide28_img03.png','../images/cases/slide27/slide28_img04.png','../images/cases/slide27/slide28_img05.jpeg','../images/cases/slide27/slide28_img07.png','../images/cases/slide27/slide28_img09.png','../images/cases/slide27/slide28_img10.png','../images/cases/slide27/slide28_img11.png','../images/cases/slide27/slide28_img12.png','../images/cases/slide27/slide28_img13.png','../images/cases/slide27/slide28_img14.png','../images/cases/slide27/slide28_img15.png','../images/cases/slide27/slide28_img16.png','../images/cases/slide27/slide28_img17.png','../images/cases/slide27/slide28_img18.png','../images/cases/slide27/slide28_img19.png','../images/cases/slide27/slide28_img20.png','../images/cases/slide27/slide28_img21.png','../images/cases/slide27/slide28_img22.png','../images/cases/slide27/slide28_img23.png','../images/cases/slide27/slide28_img25.png','../images/cases/slide27/slide28_img26.png','../images/cases/slide27/slide28_img27.png','../images/cases/slide27/slide28_img28.png','../images/cases/slide27/slide28_img29.png','../images/cases/slide27/slide28_img30.png','../images/cases/slide27/slide28_img31.png','../images/cases/slide27/slide28_img32.png','../images/cases/slide27/slide28_img33.png','../images/cases/slide27/slide28_img34.png'],
-      28: ['../images/cases/slide28/slide27_img01.jpeg','../images/cases/slide28/slide27_img02.jpeg','../images/cases/slide28/slide27_img03.jpeg','../images/cases/slide28/slide27_img04.jpeg','../images/cases/slide28/slide27_img05.jpeg','../images/cases/slide28/slide27_img06.jpeg','../images/cases/slide28/slide27_img07.jpeg','../images/cases/slide28/slide28_img01.png','../images/cases/slide28/slide28_img03.png','../images/cases/slide28/slide28_img04.png','../images/cases/slide28/slide28_img05.jpeg','../images/cases/slide28/slide28_img07.png','../images/cases/slide28/slide28_img09.png','../images/cases/slide28/slide28_img10.png','../images/cases/slide28/slide28_img11.png','../images/cases/slide28/slide28_img12.png','../images/cases/slide28/slide28_img13.png','../images/cases/slide28/slide28_img14.png','../images/cases/slide28/slide28_img15.png','../images/cases/slide28/slide28_img16.png','../images/cases/slide28/slide28_img17.png','../images/cases/slide28/slide28_img18.png','../images/cases/slide28/slide28_img19.png','../images/cases/slide28/slide28_img20.png','../images/cases/slide28/slide28_img21.png','../images/cases/slide28/slide28_img22.png','../images/cases/slide28/slide28_img23.png','../images/cases/slide28/slide28_img25.png','../images/cases/slide28/slide28_img26.png','../images/cases/slide28/slide28_img27.png','../images/cases/slide28/slide28_img28.png','../images/cases/slide28/slide28_img29.png','../images/cases/slide28/slide28_img30.png','../images/cases/slide28/slide28_img31.png','../images/cases/slide28/slide28_img32.png','../images/cases/slide28/slide28_img33.png','../images/cases/slide28/slide28_img34.png'],
-      29: ['../images/cases/slide29/slide29_img02.png','../images/cases/slide29/slide29_img04.jpeg','../images/cases/slide29/slide29_img05.jpeg','../images/cases/slide29/slide29_img06.jpeg','../images/cases/slide29/slide29_img07.jpeg','../images/cases/slide29/slide29_img10.png','../images/cases/slide29/slide29_img11.png','../images/cases/slide29/slide29_img15.jpeg'],
-      30: ['../images/cases/slide30/slide30_img04.png','../images/cases/slide30/slide30_img05.png','../images/cases/slide30/slide30_img06.png','../images/cases/slide30/slide30_img07.png','../images/cases/slide30/slide30_img08.png','../images/cases/slide30/slide30_img09.png','../images/cases/slide30/slide30_img10.png','../images/cases/slide30/slide30_img12.png'],
-      31: ['../images/cases/slide31/slide31_img01.jpeg','../images/cases/slide31/slide31_img02.png','../images/cases/slide31/slide31_img03.png','../images/cases/slide31/slide31_img06.jpeg','../images/cases/slide31/slide31_img07.jpeg','../images/cases/slide31/slide31_img08.jpeg','../images/cases/slide31/slide31_img09.jpeg','../images/cases/slide31/slide31_img10.jpeg','../images/cases/slide31/slide31_img11.jpeg','../images/cases/slide31/slide31_img12.jpeg'],
-      32: ['../images/cases/slide32/slide32_img01.jpeg','../images/cases/slide32/slide32_img02.jpeg','../images/cases/slide32/slide32_img03.jpeg','../images/cases/slide32/slide32_img06.png','../images/cases/slide32/slide32_img07.png','../images/cases/slide32/slide32_img08.png'],
-      33: ['../images/cases/slide33/slide33_img01.png','../images/cases/slide33/slide33_img02.png','../images/cases/slide33/slide33_img03.png','../images/cases/slide33/slide33_img05.png','../images/cases/slide33/slide33_img06.png','../images/cases/slide33/slide33_img07.png','../images/cases/slide33/slide33_img09.png','../images/cases/slide33/slide33_img10.png','../images/cases/slide33/slide33_img11.png','../images/cases/slide33/slide33_img12.png','../images/cases/slide33/slide33_img13.png','../images/cases/slide33/slide33_img14.png','../images/cases/slide33/slide33_img15.png','../images/cases/slide33/slide33_img16.png'],
-      34: ['../images/cases/slide34/slide34_img04.png','../images/cases/slide34/slide34_img05.png','../images/cases/slide34/slide34_img06.png','../images/cases/slide34/slide34_img07.png','../images/cases/slide34/slide34_img08.png','../images/cases/slide34/slide34_img09.png'],
-      35: ['../images/cases/slide35/slide35_img01.png','../images/cases/slide35/slide35_img04.png','../images/cases/slide35/slide35_img05.png','../images/cases/slide35/slide35_img06.png','../images/cases/slide35/slide35_img11.png'],
-      36: ['../images/cases/slide36/slide36_img03.png','../images/cases/slide36/slide36_img04.png','../images/cases/slide36/slide36_img05.png','../images/cases/slide36/slide36_img06.png'],
-      37: ['../images/cases/slide37/slide37_img03.png','../images/cases/slide37/slide37_img04.png','../images/cases/slide37/slide37_img05.png','../images/cases/slide37/slide37_img06.png','../images/cases/slide37/slide37_img07.png','../images/cases/slide37/slide37_img09.png','../images/cases/slide37/slide37_img10.png','../images/cases/slide37/slide37_img11.png'],
-      38: ['../images/cases/slide38/slide38_img04.png','../images/cases/slide38/slide38_img05.png','../images/cases/slide38/slide38_img06.png','../images/cases/slide38/slide38_img07.png','../images/cases/slide38/slide38_img08.png','../images/cases/slide38/slide38_img09.png'],
-      39: ['../images/cases/slide39/slide39_img04.png','../images/cases/slide39/slide39_img05.png','../images/cases/slide39/slide39_img06.png','../images/cases/slide39/slide39_img07.png','../images/cases/slide39/slide39_img08.png','../images/cases/slide39/slide39_img09.png']
+      14: ['images/cases/slide14/slide14_img03.png','images/cases/slide14/slide14_img04.png','images/cases/slide14/slide14_img05.png','images/cases/slide14/slide14_img06.png','images/cases/slide14/slide14_img07.png','images/cases/slide14/slide14_img08.png'],
+      15: ['images/cases/slide15/slide15_img01.jpeg','images/cases/slide15/slide15_img02.jpeg','images/cases/slide15/slide15_img03.jpeg','images/cases/slide15/slide15_img04.png','images/cases/slide15/slide15_img05.png','images/cases/slide15/slide15_img06.png','images/cases/slide15/slide15_img07.png','images/cases/slide15/slide15_img08.jpeg','images/cases/slide15/slide15_img13.png','images/cases/slide15/slide15_img14.png','images/cases/slide15/slide15_img15.png','images/cases/slide15/slide15_img16.jpeg'],
+      16: ['images/cases/slide16/slide16_img08.jpeg','images/cases/slide16/slide16_img11.png','images/cases/slide16/slide16_img12.png','images/cases/slide16/slide16_img13.jpeg','images/cases/slide16/slide16_img14.jpeg','images/cases/slide16/slide16_img15.png','images/cases/slide16/slide16_img16.jpeg','images/cases/slide16/slide16_img17.jpeg','images/cases/slide16/slide16_img18.jpeg','images/cases/slide16/slide16_img19.jpeg','images/cases/slide16/slide16_img20.jpeg'],
+      17: ['images/cases/slide17/slide17_img08.jpeg','images/cases/slide17/slide17_img09.jpeg','images/cases/slide17/slide17_img10.png','images/cases/slide17/slide17_img12.png','images/cases/slide17/slide17_img13.png','images/cases/slide17/slide17_img14.png','images/cases/slide17/slide17_img15.png','images/cases/slide17/slide17_img16.png','images/cases/slide17/slide17_img18.png','images/cases/slide17/slide17_img19.jpeg','images/cases/slide17/slide17_img20.png','images/cases/slide17/slide17_img21.jpeg','images/cases/slide17/slide17_img22.jpeg','images/cases/slide17/slide17_img23.jpeg','images/cases/slide17/slide17_img24.jpeg','images/cases/slide17/slide17_img25.jpeg'],
+      18: ['images/cases/slide18/slide18_img01.png','images/cases/slide18/slide18_img04.png','images/cases/slide18/slide18_img05.jpeg','images/cases/slide18/slide18_img06.jpeg','images/cases/slide18/slide18_img07.jpeg','images/cases/slide18/slide18_img08.jpeg','images/cases/slide18/slide18_img09.jpeg','images/cases/slide18/slide18_img11.png','images/cases/slide18/slide18_img15.png'],
+      19: ['images/cases/slide19/slide19_img01.png','images/cases/slide19/slide19_img02.png','images/cases/slide19/slide19_img03.png'],
+      20: ['images/cases/slide20/slide20_img07.png','images/cases/slide20/slide20_img08.png','images/cases/slide20/slide20_img09.png'],
+      21: ['images/cases/slide21/slide21_img08.png','images/cases/slide21/slide21_img09.png','images/cases/slide21/slide21_img11.png','images/cases/slide21/slide21_img12.png','images/cases/slide21/slide21_img13.png'],
+      22: ['images/cases/slide22/1.png','images/cases/slide22/2.png','images/cases/slide22/slide22_img08.png','images/cases/slide22/slide22_img09.png','images/cases/slide22/slide22_img10.png','images/cases/slide22/slide22_img12.png'],
+      23: ['images/cases/slide23/slide23_img01.png','images/cases/slide23/slide23_img03.png','images/cases/slide23/slide23_img04.png','images/cases/slide23/slide23_img05.png','images/cases/slide23/slide23_img06.png','images/cases/slide23/slide23_img10.png','images/cases/slide23/slide23_img12.png','images/cases/slide23/slide23_img13.png'],
+      24: ['images/cases/slide24/slide24_img04.png','images/cases/slide24/slide24_img05.png','images/cases/slide24/slide24_img06.png'],
+      25: ['images/cases/slide25/slide25_img01.png','images/cases/slide25/slide25_img02.png','images/cases/slide25/slide25_img03.png','images/cases/slide25/slide25_img04.png','images/cases/slide25/slide25_img05.jpeg','images/cases/slide25/slide25_img06.jpeg','images/cases/slide25/slide25_img07.jpeg','images/cases/slide25/slide25_img11.jpeg','images/cases/slide25/slide25_img18.png'],
+      26: ['images/cases/slide26/slide26_img05.png','images/cases/slide26/slide26_img06.png','images/cases/slide26/slide26_img07.png','images/cases/slide26/slide26_img08.png','images/cases/slide26/slide26_img09.png','images/cases/slide26/slide26_img10.png'],
+      27: ['images/cases/slide27/slide27_img01.jpeg','images/cases/slide27/slide27_img02.jpeg','images/cases/slide27/slide27_img03.jpeg','images/cases/slide27/slide27_img04.jpeg','images/cases/slide27/slide27_img05.jpeg','images/cases/slide27/slide27_img06.jpeg','images/cases/slide27/slide27_img07.jpeg','images/cases/slide27/slide28_img01.png','images/cases/slide27/slide28_img03.png','images/cases/slide27/slide28_img04.png','images/cases/slide27/slide28_img05.jpeg','images/cases/slide27/slide28_img07.png','images/cases/slide27/slide28_img09.png','images/cases/slide27/slide28_img10.png','images/cases/slide27/slide28_img11.png','images/cases/slide27/slide28_img12.png','images/cases/slide27/slide28_img13.png','images/cases/slide27/slide28_img14.png','images/cases/slide27/slide28_img15.png','images/cases/slide27/slide28_img16.png','images/cases/slide27/slide28_img17.png','images/cases/slide27/slide28_img18.png','images/cases/slide27/slide28_img19.png','images/cases/slide27/slide28_img20.png','images/cases/slide27/slide28_img21.png','images/cases/slide27/slide28_img22.png','images/cases/slide27/slide28_img23.png','images/cases/slide27/slide28_img25.png','images/cases/slide27/slide28_img26.png','images/cases/slide27/slide28_img27.png','images/cases/slide27/slide28_img28.png','images/cases/slide27/slide28_img29.png','images/cases/slide27/slide28_img30.png','images/cases/slide27/slide28_img31.png','images/cases/slide27/slide28_img32.png','images/cases/slide27/slide28_img33.png','images/cases/slide27/slide28_img34.png'],
+      28: ['images/cases/slide28/slide27_img01.jpeg','images/cases/slide28/slide27_img02.jpeg','images/cases/slide28/slide27_img03.jpeg','images/cases/slide28/slide27_img04.jpeg','images/cases/slide28/slide27_img05.jpeg','images/cases/slide28/slide27_img06.jpeg','images/cases/slide28/slide27_img07.jpeg','images/cases/slide28/slide28_img01.png','images/cases/slide28/slide28_img03.png','images/cases/slide28/slide28_img04.png','images/cases/slide28/slide28_img05.jpeg','images/cases/slide28/slide28_img07.png','images/cases/slide28/slide28_img09.png','images/cases/slide28/slide28_img10.png','images/cases/slide28/slide28_img11.png','images/cases/slide28/slide28_img12.png','images/cases/slide28/slide28_img13.png','images/cases/slide28/slide28_img14.png','images/cases/slide28/slide28_img15.png','images/cases/slide28/slide28_img16.png','images/cases/slide28/slide28_img17.png','images/cases/slide28/slide28_img18.png','images/cases/slide28/slide28_img19.png','images/cases/slide28/slide28_img20.png','images/cases/slide28/slide28_img21.png','images/cases/slide28/slide28_img22.png','images/cases/slide28/slide28_img23.png','images/cases/slide28/slide28_img25.png','images/cases/slide28/slide28_img26.png','images/cases/slide28/slide28_img27.png','images/cases/slide28/slide28_img28.png','images/cases/slide28/slide28_img29.png','images/cases/slide28/slide28_img30.png','images/cases/slide28/slide28_img31.png','images/cases/slide28/slide28_img32.png','images/cases/slide28/slide28_img33.png','images/cases/slide28/slide28_img34.png'],
+      29: ['images/cases/slide29/slide29_img02.png','images/cases/slide29/slide29_img04.jpeg','images/cases/slide29/slide29_img05.jpeg','images/cases/slide29/slide29_img06.jpeg','images/cases/slide29/slide29_img07.jpeg','images/cases/slide29/slide29_img10.png','images/cases/slide29/slide29_img11.png','images/cases/slide29/slide29_img15.jpeg'],
+      30: ['images/cases/slide30/slide30_img04.png','images/cases/slide30/slide30_img05.png','images/cases/slide30/slide30_img06.png','images/cases/slide30/slide30_img07.png','images/cases/slide30/slide30_img08.png','images/cases/slide30/slide30_img09.png','images/cases/slide30/slide30_img10.png','images/cases/slide30/slide30_img12.png'],
+      31: ['images/cases/slide31/slide31_img01.jpeg','images/cases/slide31/slide31_img02.png','images/cases/slide31/slide31_img03.png','images/cases/slide31/slide31_img06.jpeg','images/cases/slide31/slide31_img07.jpeg','images/cases/slide31/slide31_img08.jpeg','images/cases/slide31/slide31_img09.jpeg','images/cases/slide31/slide31_img10.jpeg','images/cases/slide31/slide31_img11.jpeg','images/cases/slide31/slide31_img12.jpeg'],
+      32: ['images/cases/slide32/slide32_img01.jpeg','images/cases/slide32/slide32_img02.jpeg','images/cases/slide32/slide32_img03.jpeg','images/cases/slide32/slide32_img06.png','images/cases/slide32/slide32_img07.png','images/cases/slide32/slide32_img08.png'],
+      33: ['images/cases/slide33/slide33_img01.png','images/cases/slide33/slide33_img02.png','images/cases/slide33/slide33_img03.png','images/cases/slide33/slide33_img05.png','images/cases/slide33/slide33_img06.png','images/cases/slide33/slide33_img07.png','images/cases/slide33/slide33_img09.png','images/cases/slide33/slide33_img10.png','images/cases/slide33/slide33_img11.png','images/cases/slide33/slide33_img12.png','images/cases/slide33/slide33_img13.png','images/cases/slide33/slide33_img14.png','images/cases/slide33/slide33_img15.png','images/cases/slide33/slide33_img16.png'],
+      34: ['images/cases/slide34/slide34_img04.png','images/cases/slide34/slide34_img05.png','images/cases/slide34/slide34_img06.png','images/cases/slide34/slide34_img07.png','images/cases/slide34/slide34_img08.png','images/cases/slide34/slide34_img09.png'],
+      35: ['images/cases/slide35/slide35_img01.png','images/cases/slide35/slide35_img04.png','images/cases/slide35/slide35_img05.png','images/cases/slide35/slide35_img06.png','images/cases/slide35/slide35_img11.png'],
+      36: ['images/cases/slide36/slide36_img03.png','images/cases/slide36/slide36_img04.png','images/cases/slide36/slide36_img05.png','images/cases/slide36/slide36_img06.png'],
+      37: ['images/cases/slide37/slide37_img03.png','images/cases/slide37/slide37_img04.png','images/cases/slide37/slide37_img05.png','images/cases/slide37/slide37_img06.png','images/cases/slide37/slide37_img07.png','images/cases/slide37/slide37_img09.png','images/cases/slide37/slide37_img10.png','images/cases/slide37/slide37_img11.png'],
+      38: ['images/cases/slide38/slide38_img04.png','images/cases/slide38/slide38_img05.png','images/cases/slide38/slide38_img06.png','images/cases/slide38/slide38_img07.png','images/cases/slide38/slide38_img08.png','images/cases/slide38/slide38_img09.png'],
+      39: ['images/cases/slide39/slide39_img04.png','images/cases/slide39/slide39_img05.png','images/cases/slide39/slide39_img06.png','images/cases/slide39/slide39_img07.png','images/cases/slide39/slide39_img08.png','images/cases/slide39/slide39_img09.png']
     };
     return MAP[slideNum] || [];
   }
@@ -1301,18 +1338,20 @@
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        entry.target.style.opacity = '1';
         entry.target.style.transform = 'translateY(0)';
       }
     });
   }, { threshold: 0.1 });
 
   document.addEventListener('DOMContentLoaded', () => {
+    // Re-run renderAll to ensure i18n fills all dynamic content
+    // (first call at bottom of script may run before full DOM ready)
     renderAll();
+    // Observe fade-in elements for scroll-triggered slide-up;
+    // opacity is handled by CSS animation, JS only controls transform
     $$('.fade-in').forEach(el => {
-      el.style.opacity = '0';
       el.style.transform = 'translateY(30px)';
-      el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+      el.style.transition = 'transform 0.6s ease';
       observer.observe(el);
     });
   });
